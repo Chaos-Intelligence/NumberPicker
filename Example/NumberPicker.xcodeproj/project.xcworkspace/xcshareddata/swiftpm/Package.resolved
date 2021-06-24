@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "NumberPicker",
+        "repositoryURL": "https://github.com/Chaos-Intelligence/NumberPicker.git",
+        "state": {
+          "branch": "master",
+          "revision": "eb7037284a4b69166589b139c52b3fc528ac0e2b",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
