@@ -1,6 +1,0 @@
-use_frameworks!
-
-target 'NumberPicker_Example' do
-  pod 'NumberPicker', :path => '../'
-  
-end
